@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3 align="center"> Dongpil Kim
+<h3 align="center"><b>🛠 Tech Stacked 🛠</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=black"/></a> &nbsp 
 
-<!--
-**vlfrmfla/vlfrmfla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+## _History_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ph.D in Greenhouse horticulture and plant factory Lab, Seoul National Univ. 
+
+
+## Research Features
+
+[Google Scholar](https://scholar.google.com/citations?user=EcWCxzsAAAAJ&hl=en&oi=ao)<br>
+[Researchgate](https://www.researchgate.net/profile/Dongpil-Kim)<br>
+
+- Photo-physiological responses in greenhouse crops
+- Greenhouse horticulture
+- Plant modeling
+- Understanding plant functional-structural relationship
+
