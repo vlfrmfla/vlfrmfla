@@ -1,7 +1,7 @@
 <h3 align="left"> Kim Dongpil
 </br>
 <p align="left">
-<img src ="https://img.shields.io/badge/Profile-Kim Dongpilblog-pink"/>
+<img src ="https://img.shields.io/badge/Profile-Kim Dongpil-pink"/>
 
 <h3 align="left"><b>🛠 Tech Stacked 🛠</b></h3>
 
