@@ -1,21 +1,22 @@
-<h3 align="left"> Dongpil Kim
+<h1 align="left"> Kim Dongpil
   
 </br>
 <p align="center">
 <p align="left">
 
-<img src ="https://img.shields.io/badge/Profile-Kim Dongpil_blog-pink"/>
+<img src ="https://img.shields.io/badge/Profile-Kim Dongpil_-pink"/>
 </br>
 
-<h3 align="left"><b>🛠 Tech Stacked 🛠</b></h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
+<h3 align="left"><b>🛠 Tech Stacked </b></h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=black"/></a>
 </p>
 
 ## _History_
 
 - Ph.D in Greenhouse horticulture and plant factory Lab, Seoul National Univ. (2017.03-2022.09)
-- Post doc. researcher in Protected Horticulture Research Institute. (2022.09-current)
+- Post doc. researcher in Protected Horticulture Research Institute. (2022.09-Current)
 
 
 ## Research Features
