@@ -1,13 +1,13 @@
-<h3 align="left"> Kim Dongpil
+<h3 align="center"> Dongpil Kim
+<h3 align="center"><b>🛠 Tech Stacked 🛠</b></h3>
 </br>
+<p align="center">
 <p align="left">
-<img src ="https://img.shields.io/badge/Profile-Kim Dongpil-pink"/>
 
-<h3 align="left"><b>🛠 Tech Stacked 🛠</b></h3>
-
+<img src ="https://img.shields.io/badge/Profile-Kim Dongpil_blog-pink"/>
+</br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=black"/></a> &nbsp 
-
 </p>
 
 ## _History_
