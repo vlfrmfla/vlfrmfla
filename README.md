@@ -9,7 +9,7 @@
 
 <h3 align="left"><b>🛠 Tech Stacked 🛠</b></h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=black"/></a> &nbsp 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=black"/></a>
 </p>
 
 ## _History_
