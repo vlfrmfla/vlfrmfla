@@ -16,7 +16,7 @@
 ## _History_
 
 - Ph.D in Greenhouse horticulture and plant factory Lab, Seoul National Univ. (2017.03-2022.09)
-- Post doc. researcher in Protected Horticulture Research Institute. (2022.09-Current)
+- Post doc. researcher in Protected Horticulture Research Institute, RDA, Korea. (2022.09-Current)
 
 
 ## Research Features
