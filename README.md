@@ -34,4 +34,5 @@
 - Greenhouse horticulture
 - Plant modeling
 - Understanding plant functional-structural relationship
+- Greenhouse crop management
 
