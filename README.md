@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/javascript-blue?logo=javascript"/>
 <img src="https://img.shields.io/badge/html-white?logo=html5"/>
 <img src="https://img.shields.io/badge/css-purple?logo=css3"/>
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 </a> 
 </p>
